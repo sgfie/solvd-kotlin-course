@@ -1,4 +1,4 @@
-package org.example.com.fie.kotlincourses.module1.unit1
+package org.example.com.fie.kotlincourses.module1
 
 import java.awt.Rectangle
 
