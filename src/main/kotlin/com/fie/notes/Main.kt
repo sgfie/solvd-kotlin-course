@@ -1,4 +1,4 @@
-package org.example
+package org.example.com.fie.notes
 
 import java.awt.Rectangle
 
