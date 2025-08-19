@@ -16,7 +16,7 @@ fun main() {
     printIfPositive(0);
     printIfPositive(-2);
 
-    println(square(4));
+    println(cube(4));
     checkAndPrint(-2);
     compare(4, 2); //Question: Why doesn't it automatically do the a= thing like other places?
 
@@ -87,7 +87,7 @@ fun printIfPositive(number: Int) {
 }
 
 //Unit 4.1 square
-fun square(a: Int) = a*a;
+fun cube(a: Int) = a*a*a;
 
 //Unit 4.2 checkAndPrint
 fun checkAndPrint(number: Int) {
